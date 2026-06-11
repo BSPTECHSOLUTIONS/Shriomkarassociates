@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Sri Omkar Associates"
+version = "1.0.0"
+id = "artifacts/sri-omkar"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22677
+
+[services.development]
+run = "pnpm --filter @workspace/sri-omkar run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sri-omkar", "run", "build" ]
+publicDir = "artifacts/sri-omkar/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22677"
+BASE_PATH = "/"
