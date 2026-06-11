@@ -296,10 +296,10 @@ export default function HomePage() {
                 variants={staggerContainer}
               >
                 {[
-                  { title: "Residential Buildings", img: "https://sriomkarprojects.com/public/assets/img/projects/saligrama.jpg" },
-                  { title: "Commercial Spaces", img: "https://sriomkarprojects.com/public/assets/img/projects/Ampar.jpeg" },
-                  { title: "Industrial Structures", img: "https://sriomkarprojects.com/public/assets/img/ongoing/Resort_3D_v_01.jpg" },
-                  { title: "Renovation & Remodeling", img: "https://sriomkarprojects.com/public/assets/img/interior/interior-1.jpg" }
+                  { title: "Residential Buildings", img: "/assets/img/projects/saligrama.jpg" },
+                  { title: "Commercial Spaces", img: "/assets/img/projects/Ampar.jpeg" },
+                  { title: "Industrial Structures", img: "/assets/img/ongoing/Resort_3D_v_01.jpg" },
+                  { title: "Renovation & Remodeling", img: "/assets/img/interior/interior-1.jpg" }
                 ].map((card, i) => (
                   <motion.div 
                     key={i} 
@@ -496,7 +496,7 @@ export default function HomePage() {
         </div>
         
         <div className="lg:w-[40%] h-[400px] lg:h-auto relative">
-          <img src="https://sriomkarprojects.com/public/assets/img/slider/slider-bg-3.jpg" alt="Construction Process" className="absolute inset-0 w-full h-full object-cover" />
+          <img src="/assets/img/slider/slider-bg-3.jpg" alt="Construction Process" className="absolute inset-0 w-full h-full object-cover" />
           <div className="absolute inset-0 bg-secondary/30"></div>
         </div>
       </section>
@@ -560,12 +560,15 @@ export default function HomePage() {
               </div>
               
               <div className="relative rounded-2xl overflow-hidden h-[400px] shadow-xl group">
-                <img src="https://sriomkarprojects.com/public/assets/img/interior/interior-1.jpg" alt="Interior" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105" />
-                <div className="absolute inset-0 bg-secondary/20 flex items-center justify-center">
-                  <div className="w-20 h-20 rounded-full bg-primary/90 text-secondary flex items-center justify-center shadow-[0_0_0_10px_rgba(200,150,46,0.3)] animate-pulse cursor-pointer">
-                    <Play className="w-8 h-8 ml-1" fill="currentColor" />
-                  </div>
-                </div>
+                <video
+                  className="w-full h-full object-cover"
+                  controls
+                  poster="/assets/img/interior/interior-1.jpg"
+                  preload="metadata"
+                >
+                  <source src="/assets/img/projects/aloor-home/Aloor Vid.mp4" type="video/mp4" />
+                  Your browser does not support video.
+                </video>
               </div>
             </motion.div>
 
@@ -625,7 +628,7 @@ export default function HomePage() {
       {/* CTA BANNER */}
       <section className="relative py-24">
         <div className="absolute inset-0">
-          <img src="https://sriomkarprojects.com/public/assets/img/slider/slider-bg-4.jpg" alt="CTA Background" className="w-full h-full object-cover" />
+          <img src="/assets/img/slider/slider-bg-4.jpg" alt="CTA Background" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-secondary/90 backdrop-blur-sm"></div>
         </div>
         <div className="container mx-auto px-4 relative z-10 text-center">

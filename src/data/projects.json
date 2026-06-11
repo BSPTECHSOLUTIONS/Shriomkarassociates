@@ -63,13 +63,13 @@
       "category": "residential",
       "location": "Kundapura, Karnataka",
       "description": "A premium residential project crafted with quality materials, modern structural design, and attention to every detail. Features contemporary architecture with traditional Karnataka elements.",
-      "coverImage": "https://sriomkarprojects.com/public/assets/img/projects/saligrama.jpg",
+      "coverImage": "/assets/img/projects/saligrama.jpg",
       "featured": true,
       "view360": null,
       "images": [
-        { "label": "Front Elevation", "url": "https://sriomkarprojects.com/public/assets/img/projects/saligrama.jpg" },
-        { "label": "Interior View", "url": "https://sriomkarprojects.com/public/assets/img/interior/interior-1.jpg" },
-        { "label": "Site Progress", "url": "https://sriomkarprojects.com/public/assets/img/interior/interior-2.jpg" }
+        { "label": "Front Elevation", "url": "/assets/img/projects/saligrama.jpg" },
+        { "label": "Interior View", "url": "/assets/img/interior/interior-1.jpg" },
+        { "label": "Site Progress", "url": "/assets/img/interior/interior-2.jpg" }
       ],
       "videos": []
     },

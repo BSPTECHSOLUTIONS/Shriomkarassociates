@@ -22,35 +22,35 @@ export default function ServicesPage() {
       id: 1,
       title: "Design & Build",
       desc: "Comprehensive end-to-end solutions. We handle both the architectural design and the physical construction, providing a single point of responsibility that ensures your vision is executed flawlessly and efficiently.",
-      img: "https://sriomkarprojects.com/public/assets/img/imagebox/PROJECT-MANAGEMENT.jpg",
+      img: "/assets/img/imagebox/PROJECT-MANAGEMENT.jpg",
       icon: "🏗️"
     },
     {
       id: 2,
       title: "Interior Design",
       desc: "Transforming empty spaces into vibrant, functional environments. Our interior design team crafts bespoke layouts, selects premium materials, and curates aesthetic elements that reflect your personal or brand identity.",
-      img: "https://sriomkarprojects.com/public/assets/img/imagebox/INTERIOR-DESIGN.jpg",
+      img: "/assets/img/imagebox/INTERIOR-DESIGN.jpg",
       icon: "🛋️"
     },
     {
       id: 3,
       title: "Project Management",
       desc: "Expert oversight from conception to completion. We manage resources, timelines, budgets, and contractors to ensure your project is delivered on schedule, within budget, and to the highest quality standards.",
-      img: "https://sriomkarprojects.com/public/assets/img/imagebox/PROJECT%20-MANAGEMENTsss.jpg",
+      img: "/assets/img/imagebox/PROJECT%20-MANAGEMENTsss.jpg",
       icon: "📋"
     },
     {
       id: 4,
       title: "Structural Design",
       desc: "The backbone of any enduring building. Our structural engineers utilize advanced software and deep material knowledge to design safe, resilient, and innovative frameworks capable of withstanding the test of time.",
-      img: "https://sriomkarprojects.com/public/assets/img/imagebox/STRUCTURAL-DESIGN.jpg",
+      img: "/assets/img/imagebox/STRUCTURAL-DESIGN.jpg",
       icon: "🏢"
     },
     {
       id: 5,
       title: "Renovation & Retrofitting",
       desc: "Breathing new life into aging structures. Whether it's upgrading a heritage home or modernizing a commercial space, we execute renovations with minimal disruption while maximizing structural integrity and value.",
-      img: "https://sriomkarprojects.com/public/assets/img/imagebox/OLD-STRUCTURE.jpg",
+      img: "/assets/img/imagebox/OLD-STRUCTURE.jpg",
       icon: "🔨"
     }
   ];
@@ -61,7 +61,7 @@ export default function ServicesPage() {
       {/* PAGE HERO */}
       <section className="relative h-[40vh] min-h-[350px] flex items-center bg-secondary overflow-hidden">
         <img 
-          src="https://sriomkarprojects.com/public/assets/img/slider/slider-bg-4.jpg" 
+          src="/assets/img/slider/slider-bg-4.jpg" 
           alt="Our Services" 
           className="absolute inset-0 w-full h-full object-cover grayscale-[30%]" 
         />
@@ -187,7 +187,7 @@ export default function ServicesPage() {
       {/* CTA BANNER */}
       <section className="relative py-24">
         <div className="absolute inset-0">
-          <img src="https://sriomkarprojects.com/public/assets/img/slider/slider-bg-3.jpg" alt="CTA Background" className="w-full h-full object-cover grayscale-[20%]" />
+          <img src="/assets/img/slider/slider-bg-3.jpg" alt="CTA Background" className="w-full h-full object-cover grayscale-[20%]" />
           <div className="absolute inset-0 bg-secondary/90 backdrop-blur-sm"></div>
         </div>
         <div className="container mx-auto px-4 relative z-10 text-center">

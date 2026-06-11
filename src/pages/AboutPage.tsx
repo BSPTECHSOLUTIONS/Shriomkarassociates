@@ -23,7 +23,7 @@ export default function AboutPage() {
       {/* PAGE HERO */}
       <section className="relative h-[40vh] min-h-[350px] flex items-center bg-secondary overflow-hidden">
         <img 
-          src="https://sriomkarprojects.com/public/assets/img/slider/slider-bg-4.jpg" 
+          src="/assets/img/slider/slider-bg-4.jpg" 
           alt="About Us" 
           className="absolute inset-0 w-full h-full object-cover" 
         />
@@ -55,7 +55,7 @@ export default function AboutPage() {
               transition={{ duration: 0.8 }}
             >
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-                <img src="https://sriomkarprojects.com/public/assets/img/projects/saligrama.jpg" alt="Our Work" className="w-full h-auto object-cover" />
+                <img src="/assets/img/projects/saligrama.jpg" alt="Our Work" className="w-full h-auto object-cover" />
                 <div className="absolute bottom-0 left-0 bg-primary text-secondary p-6 md:p-8 w-3/4 md:w-2/3 rounded-tr-3xl">
                   <span className="font-serif text-5xl font-bold block mb-1">15+</span>
                   <span className="font-bold text-sm uppercase tracking-wider">Years of Craftsmanship</span>
@@ -171,7 +171,7 @@ export default function AboutPage() {
       {/* RE-USE CTA BANNER */}
       <section className="relative py-24">
         <div className="absolute inset-0">
-          <img src="https://sriomkarprojects.com/public/assets/img/slider/slider-bg-4.jpg" alt="CTA Background" className="w-full h-full object-cover" />
+          <img src="/assets/img/slider/slider-bg-4.jpg" alt="CTA Background" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-secondary/90 backdrop-blur-sm"></div>
         </div>
         <div className="container mx-auto px-4 relative z-10 text-center">
