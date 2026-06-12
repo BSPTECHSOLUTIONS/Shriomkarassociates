@@ -819,12 +819,6 @@
     "url": "/assets/img/gallery/experier/Hemmadi.jpg"
   },
   {
-    "id": "exp-img-1302",
-    "category": "Exterior",
-    "label": "Project — Exterior",
-    "url": "/assets/img/gallery/experier/IMG_1302.jpg"
-  },
-  {
     "id": "exp-kalavara",
     "category": "Exterior",
     "label": "Kalavara — Elevation",
@@ -841,12 +835,6 @@
     "category": "Exterior",
     "label": "Korodi — Elevation",
     "url": "/assets/img/gallery/experier/Korodi.jpeg"
-  },
-  {
-    "id": "exp-kunapura",
-    "category": "Exterior",
-    "label": "Kunapura — Elevation",
-    "url": "/assets/img/gallery/experier/kunapura .jpg"
   },
   {
     "id": "exp-mandya",
