@@ -60,10 +60,10 @@ export function Navbar() {
         <div className="flex gap-4 items-center">
           <span className="text-white/60">Follow Us:</span>
           <div className="flex gap-3 text-white">
-            <a href="#" className="hover:text-primary transition-colors"><FaFacebook size={14} /></a>
-            <a href="#" className="hover:text-primary transition-colors"><FaInstagram size={14} /></a>
-            <a href="#" className="hover:text-primary transition-colors"><FaLinkedin size={14} /></a>
-            <a href="#" className="hover:text-primary transition-colors"><FaYoutube size={14} /></a>
+            {/* <a href="#" className="hover:text-primary transition-colors"><FaFacebook size={14} /></a> */}
+            <a href="https://www.instagram.com/sriomkarassociates/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><FaInstagram size={14} /></a>
+            {/* <a href="#" className="hover:text-primary transition-colors"><FaLinkedin size={14} /></a>
+            <a href="#" className="hover:text-primary transition-colors"><FaYoutube size={14} /></a> */}
           </div>
         </div>
       </div>
@@ -169,10 +169,10 @@ export function Navbar() {
             </Button>
 
             <div className="mt-8 flex gap-4 text-secondary justify-center">
-              <a href="#" className="hover:text-primary transition-colors"><FaFacebook size={20} /></a>
-              <a href="#" className="hover:text-primary transition-colors"><FaInstagram size={20} /></a>
-              <a href="#" className="hover:text-primary transition-colors"><FaLinkedin size={20} /></a>
-              <a href="#" className="hover:text-primary transition-colors"><FaYoutube size={20} /></a>
+              {/* <a href="#" className="hover:text-primary transition-colors"><FaFacebook size={14} /></a> */}
+              <a href="https://www.instagram.com/sriomkarassociates/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><FaInstagram size={14} /></a>
+              {/* <a href="#" className="hover:text-primary transition-colors"><FaLinkedin size={14} /></a>
+              <a href="#" className="hover:text-primary transition-colors"><FaYoutube size={14} /></a> */}
             </div>
           </div>
         </div>
