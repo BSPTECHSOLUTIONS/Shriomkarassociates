@@ -1,397 +1,973 @@
 {
-  "projects": [
-    {
-      "id": "aloor-home",
-      "name": "Aloor Home",
-      "status": "completed",
-      "category": "residential",
-      "location": "Aloor, Karnataka",
-      "description": "A beautifully crafted residential home at Aloor with premium interiors and modern architecture. Features spacious living areas, elegant interior design, and quality construction throughout.",
-      "coverImage": "/assets/img/projects/aloor-home/1000122494.jpg",
-      "featured": true,
-      "view360": null,
-      "images": [
-        { "label": "Front Exterior", "url": "/assets/img/projects/aloor-home/1000122494.jpg" },
-        { "label": "Building Exterior", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0004.jpg" },
-        { "label": "Front Elevation", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0005.jpg" },
-        { "label": "Design Vs Real iamge", "url": "/assets/img/projects/aloor-home/IMG_20241010_162405.jpg" },
-        { "label": "Modern Room", "url": "/assets/img/projects/aloor-home/Aloor 5.jpg" },
-        { "label": "Modular Kitchen", "url": "/assets/img/projects/aloor-home/Aloor 8.jpg" },
-        { "label": "Designer Ceiling", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0001.jpg" },
-        { "label": "Ceiling Design", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0002.jpg" },
-        { "label": "Wardrobe Design", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0014.jpg" },
-        { "label": "Washroom", "url": "/assets/img/projects/aloor-home/INT Aloor.jpg" },
-        { "label": "Bedroom Wardrobe", "url": "/assets/img/projects/aloor-home/INT Aloor 2.jpg" },
-        { "label": "Window Seating", "url": "/assets/img/projects/aloor-home/INT Aloor3.jpg" },
-        { "label": "Family Lounge", "url": "/assets/img/projects/aloor-home/INT Aloor 4.jpg" },
-        { "label": "Staircase Area", "url": "/assets/img/projects/aloor-home/INT Aloor6.jpg" },
-        { "label": "Vanity Area", "url": "/assets/img/projects/aloor-home/INT Aloor 7.jpg" }
-      ],
-      "videos": [
-        { "label": "House Tour 1", "url": "/assets/img/projects/aloor-home/Aloor Vid.mp4" },
-        { "label": "House Tour 2", "url": "/assets/img/projects/aloor-home/Aloor VID 2.mp4" },
-        { "label": "House Tour 3", "url": "/assets/img/projects/aloor-home/Aloor VID 4.mp4" },
-        { "label": "Walkthrough", "url": "/assets/img/projects/aloor-home/VID-20241010-WA0002.mp4" },
-        { "label": "Exterior Walk", "url": "/assets/img/projects/aloor-home/VID-20241010-WA0004.mp4" },
-        { "label": "Interior Tour", "url": "/assets/img/projects/aloor-home/VID-20241010-WA0007.mp4" }
-      ]
-    },
-    {
-      "id": "beloor-home",
-      "name": "Beloor Home",
-      "status": "completed",
-      "category": "residential",
-      "location": "Beloor, Karnataka",
-      "description": "A stunning completed residential project at Beloor showcasing premium construction standards and elegant architecture. Crafted with quality materials and meticulous attention to detail.",
-      "coverImage": "/assets/img/projects/beloor-home/BELOOR .jpg",
-      "featured": true,
-      "view360": null,
-      "images": [
-        { "label": "Exterior", "url": "/assets/img/projects/beloor-home/BELOOR .jpg" },
-        { "label": "Design Vs Real Image", "url": "/assets/img/projects/beloor-home/Beloor.jpg" }
-      ],
-      "videos": [
-        { "label": "House Video Tour", "url": "/assets/img/projects/beloor-home/HOUSE VIDEO.mp4" }
-      ]
-    },
-    {
-      "id": "Kandloor",
-      "name": "Kandloor",
-      "status": "completed",
-      "category": "Residential",
-      "location": "Kundapura, Karnataka",
-      "description": "A premium residential project crafted with quality materials, modern structural design, and attention to every detail. Features contemporary architecture with traditional Karnataka elements.",
-      "coverImage": "/assets/img/projects/Kandloor/Screenshot 2026-06-11 132242.png",
-      "featured": true,
-      "view360": null,
-      "images": [
-        { "label": "Front Elevation", "url": "/assets/img/projects/Kandloor/Screenshot 2026-06-11 132242.png" },
-        { "label": "Interior View", "url": "/assets/img/projects/Kandloor/image2.jpg" },
-        { "label": "Dining area", "url": "/assets/img/projects/Kandloor/image3.jpg" },
-        { "label": "Bed Room", "url": "/assets/img/projects/Kandloor/Image1.jpg" }
-      ],
-      "videos": [
-        { "label": "House Video Tour", "url": "/assets/img/projects/Kandloor/Video.mp4" }
-      ]
-    },
-    {
-      "id": "resort",
-      "name": "Resort Project",
-      "status": "ongoing",
-      "category": "commercial",
-      "location": "Kundapura, Karnataka",
-      "description": "A stunning resort development project currently underway, combining hospitality design with structural excellence. Designed for a premium guest experience.",
-      "coverImage": "/assets/img/gallery/experier/Resort_3D_v_01.jpg",
-      "featured": true,
-      "view360": null,
-      "images": [
-        { "label": "3D Elevation v1", "url": "/assets/img/gallery/experier/Resort_3D_v_01.jpg" },
-        { "label": "3D Elevation v2", "url": "/assets/img/gallery/experier/Resort_3D_v_02.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "Kundapura",
-      "name": "Kundapura",
-      "status": "completed",
-      "category": "residential",
-      "location": "Kundapura, Karnataka",
-      "description": "A beautifully completed residential home with modern design and premium finishes throughout. Spacious layout with attention to natural light.",
-      "coverImage": "/assets/img/projects/Doctor/image1.png",
-      "featured": true,
-      "view360": null,
-      "images": [
-        { "label": "Front View", "url": "/assets/img/projects/Doctor/image1.png" },
-        { "label": "3D View", "url": "/assets/img/projects/Doctor/image2.png" }
-      ],
-      "videos": [
-        { "label": "House Video Tour", "url": "/assets/img/projects/Doctor/video2.mp4" },
-        { "label": "House Video Tour", "url": "/assets/img/projects/Doctor/video1.mp4" }
-      ]
-    },
-    {
-      "id": "Ampar",
-      "name": "Ampar",
-      "status": "completed",
-      "category": "residential",
-      "location": "Udupi, Karnataka",
-      "description": "A beautifully completed residential home with modern design and premium finishes throughout. Spacious layout with attention to natural light.",
-      "coverImage": "/assets/img/gallery/experier/Ampar.jpeg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front View", "url": "/assets/img/gallery/experier/Ampar.jpeg" },
-        { "label": "Bharath Raj View", "url": "/assets/img/gallery/experier/Ampar Bharath raj .jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "nellikatte",
-      "name": "Nellikatte",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A completed residential project showcasing elegant architecture and quality craftsmanship. Blends modern aesthetics with functional living spaces.",
-      "coverImage": "/assets/img/gallery/experier/Nellikatte.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Nellikatte.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "shankarnarayana",
-      "name": "Shankarnarayana",
-      "status": "ongoing",
-      "category": "residential",
-      "location": "Udupi, Karnataka",
-      "description": "An ongoing residential project designed with innovative layouts and modern construction techniques. Expected to set new standards in the region.",
-      "coverImage": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "3D Design", "url": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "koni",
-      "name": "Koni",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A quality residential construction project delivered on time with excellent finishing and durable materials.",
-      "coverImage": "/assets/img/gallery/experier/koni 2.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front View", "url": "/assets/img/gallery/experier/koni 2.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "kandloor",
-      "name": "Kandloor",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A stunning completed residential project in Kandloor with modern structural design and quality finishes.",
-      "coverImage": "/assets/img/gallery/experier/Kandloor c.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front View", "url": "/assets/img/gallery/experier/Kandloor c.jpg" },
-        { "label": "Vijay View", "url": "/assets/img/gallery/experier/vijay kandloor 2.jpg" },
-        { "label": "Vijay Elevation", "url": "/assets/img/gallery/experier/Vijay_Kandloor.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "trasi",
-      "name": "Trasi",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A beautiful completed home in Trasi, built with precision and premium craftsmanship.",
-      "coverImage": "/assets/img/gallery/experier/Trasi c.jpeg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Trasi c.jpeg" },
-        { "label": "Prakash Trasi", "url": "/assets/img/gallery/experier/Prakash Trasi .jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "koteshwara",
-      "name": "Koteshwara",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A completed residential home in Koteshwara, designed and built with premium quality materials and skilled craftsmanship.",
-      "coverImage": "/assets/img/gallery/experier/Koteshwara1.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Koteshwara1.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "Byndoor",
-      "name": "Byndoor",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A premium residential project in Byndoor, completed with quality construction standards and modern architecture.",
-      "coverImage": "/assets/img/gallery/experier/Byndoor.jpg",
-      "featured": true,
-      "view360": null,
-      "images": [
-        { "label": "Front Left View", "url": "/assets/img/gallery/experier/Byndoor.jpg" },
-        { "label": "Front View", "url": "/assets/img/gallery/experier/WhatsApp Image 2026-06-04 at 14.48.35 (2).jpeg" },
-        { "label": "Interior Tour", "url": "/assets/img/gallery/experier/Screenshot 2026-06-11 141307.png" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "navdrkeri",
-      "name": "Navdrkeri, Kundapura",
-      "status": "ongoing",
-      "category": "residential",
-      "location": "Kundapura, Karnataka",
-      "description": "An ongoing residential project in Navdrkeri with modern 3D design and structural excellence.",
-      "coverImage": "/assets/img/gallery/experier/Navdrkeri kundapur Sathis_3D.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "3D Design", "url": "/assets/img/gallery/experier/Navdrkeri kundapur Sathis_3D.jpg" },
-        { "label": "Completed View", "url": "/assets/img/gallery/experier/Navudrkeri kundapura comp.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "gujjadi",
-      "name": "Gujjadi",
-      "status": "completed",
-      "category": "residential",
-      "location": "Karnataka",
-      "description": "A quality residential construction in Gujjadi, delivered with timely precision and high standards.",
-      "coverImage": "/assets/img/gallery/experier/gujjadi c.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front View", "url": "/assets/img/gallery/experier/gujjadi c.jpg" }
-      ],
-      "videos": []
-    },
-    {
-      "id": "kundapura-kodi",
-      "name": "Kundapura, Kodi",
-      "status": "completed",
-      "category": "residential",
-      "location": "Kundapura, Karnataka",
-      "description": "A premium home built in the Kodi area of Kundapura, showcasing modern architectural design and quality construction.",
-      "coverImage": "/assets/img/gallery/experier/kunapura,kodi.jpg",
-      "featured": false,
-      "view360": null,
-      "images": [
-        { "label": "Front Elevation", "url": "/assets/img/gallery/experier/kunapura,kodi.jpg" },
-        { "label": "Kundapura View", "url": "/assets/img/gallery/experier/kundapura..jpg" }
-      ],
-      "videos": []
-    }
-  ],
+ "projects": [
+  {
+    "id": "Ampar",
+    "name": "Ampar",
+    "status": "completed",
+    "category": "residential",
+    "location": "Udupi, Karnataka",
+    "description": "A beautifully completed residential home with modern design and premium finishes throughout. Spacious layout with attention to natural light.",
+    "coverImage": "/assets/img/gallery/experier/Ampar.jpeg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/Ampar.jpeg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "nellikatte",
+    "name": "Nellikatte",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential project showcasing elegant architecture and quality craftsmanship.",
+    "coverImage": "/assets/img/gallery/experier/Nellikatte.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Nellikatte.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "shankarnarayana",
+    "name": "Shankarnarayana",
+    "status": "ongoing",
+    "category": "residential",
+    "location": "Udupi, Karnataka",
+    "description": "An ongoing residential project designed with innovative layouts and modern construction techniques.",
+    "coverImage": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "3D Design", "url": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "koni",
+    "name": "Koni",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A quality residential construction project delivered on time with excellent finishing and durable materials.",
+    "coverImage": "/assets/img/gallery/experier/koni 2.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/koni 2.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "kandloor",
+    "name": "Kandloor",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A stunning completed residential project in Kandloor with modern structural design and quality finishes.",
+    "coverImage": "/assets/img/gallery/experier/Kandloor c.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/Kandloor c.jpg" },
+      { "label": "Vijay View", "url": "/assets/img/gallery/experier/vijay kandloor 2.jpg" },
+      { "label": "Vijay Elevation", "url": "/assets/img/gallery/experier/Vijay_Kandloor.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "trasi",
+    "name": "Trasi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A beautiful completed home in Trasi, built with precision and premium craftsmanship.",
+    "coverImage": "/assets/img/gallery/experier/Trasi c.jpeg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Trasi c.jpeg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "koteshwara",
+    "name": "Koteshwara",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential home in Koteshwara, designed and built with premium quality materials.",
+    "coverImage": "/assets/img/gallery/experier/Koteshwara1.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Koteshwara1.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "navdrkeri",
+    "name": "Navdrkeri, Kundapura",
+    "status": "ongoing",
+    "category": "residential",
+    "location": "Kundapura, Karnataka",
+    "description": "An ongoing residential project in Navdrkeri with modern 3D design and structural excellence.",
+    "coverImage": "/assets/img/gallery/experier/Navdrkeri kundapur Sathis_3D.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "3D Design", "url": "/assets/img/gallery/experier/Navdrkeri kundapur Sathis_3D.jpg" },
+      { "label": "Completed View", "url": "/assets/img/gallery/experier/Navudrkeri kundapura comp.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gujjadi",
+    "name": "Gujjadi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A quality residential construction in Gujjadi, delivered with timely precision and high standards.",
+    "coverImage": "/assets/img/gallery/experier/gujjadi c.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/gujjadi c.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "kundapura-kodi",
+    "name": "Kundapura, Kodi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Kundapura, Karnataka",
+    "description": "A premium home built in the Kodi area of Kundapura, showcasing modern architectural design.",
+    "coverImage": "/assets/img/gallery/experier/kunapura,kodi.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/kunapura,kodi.jpg" },
+      { "label": "Kundapura View", "url": "/assets/img/gallery/experier/kundapura..jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "aishwarya",
+    "name": "Aishwarya",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A beautifully crafted residential home with elegant elevation and quality construction.",
+    "coverImage": "/assets/img/gallery/experier/Aishwarya .jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Aishwarya .jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "beejadi",
+    "name": "Beejadi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential project in Beejadi with quality construction and modern design.",
+    "coverImage": "/assets/img/gallery/experier/Beejadi wip.jpeg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Exterior View", "url": "/assets/img/gallery/experier/Beejadi wip.jpeg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "sastana",
+    "name": "Sastana",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A quality residential home in Sastana built with precision and premium materials.",
+    "coverImage": "/assets/img/gallery/experier/Sastana.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/Sastana.jpg" },
+      { "label": "View 2", "url": "/assets/img/gallery/experier/Sasthana 2.jpg" },
+      { "label": "Sasthana", "url": "/assets/img/gallery/experier/Sasthana.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "uppinakudru",
+    "name": "Uppinakudru",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A premium residential project in Uppinakudru with modern architecture and quality finishes.",
+    "coverImage": "/assets/img/gallery/experier/uppinakudru.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/uppinakudru.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "hunsemakki",
+    "name": "Hunsemakki",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A stunning residential home in Hunsemakki crafted with quality materials and elegant design.",
+    "coverImage": "/assets/img/gallery/experier/HUNSEMAKKI .jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/HUNSEMAKKI .jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "kodi",
+    "name": "Kodi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A beautifully designed and completed home in Kodi with modern structural excellence.",
+    "coverImage": "/assets/img/gallery/experier/Kodi.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/Kodi.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "rammandir",
+    "name": "Rammandir",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential project near Rammandir with quality construction and timely delivery.",
+    "coverImage": "/assets/img/gallery/experier/rammandir.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/rammandir.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "saligrama",
+    "name": "Saligrama",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A premium completed home in Saligrama with elegant design and quality construction.",
+    "coverImage": "/assets/img/gallery/experier/saligrama c.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/gallery/experier/saligrama c.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "baby-kundapura",
+    "name": "Baby Kundapura",
+    "status": "completed",
+    "category": "residential",
+    "location": "Kundapura, Karnataka",
+    "description": "A quality residential home in Kundapura built with premium materials and modern design.",
+    "coverImage": "/assets/img/gallery/experier/baby kundapura.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/baby kundapura.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "balikere",
+    "name": "Balikere",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential project in Balikere with modern architecture and quality finishes.",
+    "coverImage": "/assets/img/gallery/experier/balikere.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/balikere.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gangolli",
+    "name": "Gangolli",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A premium residential home in Gangolli with elegant elevation and quality construction.",
+    "coverImage": "/assets/img/gallery/experier/GANGOLLI.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/GANGOLLI.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "hebri",
+    "name": "Hebri",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A beautifully completed home in Hebri built with precision and premium craftsmanship.",
+    "coverImage": "/assets/img/gallery/experier/Hebri.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Hebri.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "hemmadi",
+    "name": "Hemmadi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A quality residential construction in Hemmadi delivered with excellent finishing.",
+    "coverImage": "/assets/img/gallery/experier/Hemmadi.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Hemmadi.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "kalavara",
+    "name": "Kalavara",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A stunning residential project in Kalavara with modern design and quality materials.",
+    "coverImage": "/assets/img/gallery/experier/KALAVARA.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/KALAVARA.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "kodladi",
+    "name": "Kodladi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential home in Kodladi with quality construction and elegant design.",
+    "coverImage": "/assets/img/gallery/experier/KODLADI .jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/KODLADI .jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "korodi",
+    "name": "Korodi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A premium residential project in Korodi built with precision and quality craftsmanship.",
+    "coverImage": "/assets/img/gallery/experier/Korodi.jpeg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Korodi.jpeg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "mandya",
+    "name": "Mandya",
+    "status": "completed",
+    "category": "residential",
+    "location": "Mandya, Karnataka",
+    "description": "A quality residential home in Mandya built with modern structural design and premium materials.",
+    "coverImage": "/assets/img/gallery/experier/mandya.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/mandya.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "mudbage",
+    "name": "Mudbage",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A completed residential project in Mudbage with elegant architecture and quality finishes.",
+    "coverImage": "/assets/img/gallery/experier/MUDBAGE .jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/MUDBAGE .jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "mudgopadi",
+    "name": "Mudgopadi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A quality residential construction in Mudgopadi delivered with timely precision.",
+    "coverImage": "/assets/img/gallery/experier/MUDGOPADI.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/MUDGOPADI.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "nada-guddeyangadi",
+    "name": "Nada Guddeyangadi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A premium residential home in Nada Guddeyangadi with modern design and quality construction.",
+    "coverImage": "/assets/img/gallery/experier/NADA GUDDEYANGADI .jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/NADA GUDDEYANGADI .jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "nandibettu",
+    "name": "Nandibettu",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A beautifully completed home in Nandibettu built with precision and quality craftsmanship.",
+    "coverImage": "/assets/img/gallery/experier/NANDIBETTU .jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/NANDIBETTU .jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "restaurant",
+    "name": "Restaurant",
+    "status": "completed",
+    "category": "commercial",
+    "location": "Karnataka",
+    "description": "A completed commercial restaurant project with modern design and structural excellence.",
+    "coverImage": "/assets/img/gallery/experier/Restaurant.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Restaurant.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "tallur",
+    "name": "Tallur",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A quality residential home in Tallur with elegant elevation and modern construction.",
+    "coverImage": "/assets/img/gallery/experier/Tallur.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/Tallur.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "udupi",
+    "name": "Udupi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Udupi, Karnataka",
+    "description": "A premium residential project in Udupi showcasing modern architecture and quality craftsmanship.",
+    "coverImage": "/assets/img/gallery/experier/UDUPI.jpg",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/gallery/experier/UDUPI.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "aloor-home",
+    "name": "Aloor Home",
+    "status": "completed",
+    "category": "residential",
+    "location": "Aloor, Karnataka",
+    "description": "A beautifully crafted residential home at Aloor with premium interiors and modern architecture. Features spacious living areas, elegant interior design, and quality construction throughout.",
+    "coverImage": "/assets/img/projects/aloor-home/1000122494.jpg",
+    "featured": true,
+    "view360": null,
+    "images": [
+      { "label": "Front Exterior", "url": "/assets/img/projects/aloor-home/1000122494.jpg" },
+      { "label": "Building Exterior", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0004.jpg" },
+      { "label": "Front Elevation", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0005.jpg" },
+      { "label": "Design Vs Real Image", "url": "/assets/img/projects/aloor-home/IMG_20241010_162405.jpg" },
+      { "label": "Modern Room", "url": "/assets/img/projects/aloor-home/Aloor 5.jpg" },
+      { "label": "Modular Kitchen", "url": "/assets/img/projects/aloor-home/Aloor 8.jpg" },
+      { "label": "Designer Ceiling", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0001.jpg" },
+      { "label": "Ceiling Design", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0002.jpg" },
+      { "label": "Wardrobe Design", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0014.jpg" },
+      { "label": "Washroom", "url": "/assets/img/projects/aloor-home/INT Aloor.jpg" },
+      { "label": "Bedroom Wardrobe", "url": "/assets/img/projects/aloor-home/INT Aloor 2.jpg" },
+      { "label": "Window Seating", "url": "/assets/img/projects/aloor-home/INT Aloor3.jpg" },
+      { "label": "Family Lounge", "url": "/assets/img/projects/aloor-home/INT Aloor 4.jpg" },
+      { "label": "Staircase Area", "url": "/assets/img/projects/aloor-home/INT Aloor6.jpg" },
+      { "label": "Vanity Area", "url": "/assets/img/projects/aloor-home/INT Aloor 7.jpg" }
+    ],
+    "videos": [
+      { "label": "House Tour 1", "url": "/assets/img/projects/aloor-home/Aloor Vid.mp4" },
+      { "label": "House Tour 2", "url": "/assets/img/projects/aloor-home/Aloor VID 2.mp4" },
+      { "label": "House Tour 3", "url": "/assets/img/projects/aloor-home/Aloor VID 4.mp4" },
+      { "label": "Walkthrough", "url": "/assets/img/projects/aloor-home/VID-20241010-WA0002.mp4" },
+      { "label": "Exterior Walk", "url": "/assets/img/projects/aloor-home/VID-20241010-WA0004.mp4" },
+      { "label": "Interior Tour", "url": "/assets/img/projects/aloor-home/VID-20241010-WA0007.mp4" }
+    ]
+  },
+  {
+    "id": "beloor-home",
+    "name": "Beloor Home",
+    "status": "completed",
+    "category": "residential",
+    "location": "Beloor, Karnataka",
+    "description": "A stunning completed residential project at Beloor showcasing premium construction standards and elegant architecture.",
+    "coverImage": "/assets/img/projects/beloor-home/BELOOR .jpg",
+    "featured": true,
+    "view360": null,
+    "images": [
+      { "label": "Exterior", "url": "/assets/img/projects/beloor-home/BELOOR .jpg" },
+      { "label": "Design Vs Real Image", "url": "/assets/img/projects/beloor-home/Beloor.jpg" }
+    ],
+    "videos": [
+      { "label": "House Video Tour", "url": "/assets/img/projects/beloor-home/HOUSE VIDEO.mp4" }
+    ]
+  },
+  {
+    "id": "Kandloor",
+    "name": "Kandloor",
+    "status": "completed",
+    "category": "residential",
+    "location": "Kundapura, Karnataka",
+    "description": "A premium residential project crafted with quality materials, modern structural design, and attention to every detail.",
+    "coverImage": "/assets/img/projects/Kandloor/Screenshot 2026-06-11 132242.png",
+    "featured": true,
+    "view360": null,
+    "images": [
+      { "label": "Front Elevation", "url": "/assets/img/projects/Kandloor/Screenshot 2026-06-11 132242.png" },
+      { "label": "Interior View", "url": "/assets/img/projects/Kandloor/image2.jpg" },
+      { "label": "Dining Area", "url": "/assets/img/projects/Kandloor/image3.jpg" },
+      { "label": "Bed Room", "url": "/assets/img/projects/Kandloor/Image1.jpg" }
+    ],
+    "videos": [
+      { "label": "House Video Tour", "url": "/assets/img/projects/Kandloor/Video.mp4" }
+    ]
+  },
+  {
+    "id": "resort",
+    "name": "Resort Project",
+    "status": "ongoing",
+    "category": "commercial",
+    "location": "Kundapura, Karnataka",
+    "description": "A stunning resort development project currently underway, combining hospitality design with structural excellence.",
+    "coverImage": "/assets/img/gallery/experier/Resort_3D_v_01.jpg",
+    "featured": true,
+    "view360": null,
+    "images": [
+      { "label": "3D Elevation v1", "url": "/assets/img/gallery/experier/Resort_3D_v_01.jpg" },
+      { "label": "3D Elevation v2", "url": "/assets/img/gallery/experier/Resort_3D_v_02.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": "Kundapura",
+    "name": "Kundapura",
+    "status": "completed",
+    "category": "residential",
+    "location": "Kundapura, Karnataka",
+    "description": "A beautifully completed residential home with modern design and premium finishes throughout.",
+    "coverImage": "/assets/img/projects/Doctor/image1.png",
+    "featured": true,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/projects/Doctor/image1.png" },
+      { "label": "3D View", "url": "/assets/img/projects/Doctor/image2.png" }
+    ],
+    "videos": [
+      { "label": "House Video Tour", "url": "/assets/img/projects/Doctor/video2.mp4" },
+      { "label": "House Video Tour 2", "url": "/assets/img/projects/Doctor/video1.mp4" }
+    ]
+  },
+  {
+    "id": "Byndoor",
+    "name": "Byndoor",
+    "status": "completed",
+    "category": "residential",
+    "location": "Karnataka",
+    "description": "A premium residential project in Byndoor, completed with quality construction standards and modern architecture.",
+    "coverImage": "/assets/img/gallery/experier/Byndoor.jpg",
+    "featured": true,
+    "view360": null,
+    "images": [
+      { "label": "Front Left View", "url": "/assets/img/gallery/experier/Byndoor.jpg" },
+      { "label": "Front View", "url": "/assets/img/gallery/experier/WhatsApp Image 2026-06-04 at 14.48.35 (2).jpeg" },
+      { "label": "Interior Tour", "url": "/assets/img/gallery/experier/Screenshot 2026-06-11 141307.png" }
+    ],
+    "videos": []
+  }
+],
   "gallery": [
-    {
-      "id": "exp-aloor-wip",
-      "category": "Exterior",
-      "label": "Vasanth @ Aloor — WIP",
-      "url": "/assets/img/gallery/experier/vasanth @aloor wip.jpg"
-    },
-    {
-      "id": "exp-beloor-1",
-      "category": "Exterior",
-      "label": "Beloor — Front Elevation",
-      "url": "/assets/img/gallery/experier/Beloor.jpg"
-    },
-    {
-      "id": "exp-beloor-2",
-      "category": "Exterior",
-      "label": "BELOOR — Side View",
-      "url": "/assets/img/gallery/experier/BELOOR .jpg"
-    },
-    {
-      "id": "exp-ampar",
-      "category": "Exterior",
-      "label": "Ampar — Front View",
-      "url": "/assets/img/gallery/experier/Ampar.jpeg"
-    },
-    {
-      "id": "exp-nellikatte",
-      "category": "Exterior",
-      "label": "Nellikatte — Elevation",
-      "url": "/assets/img/gallery/experier/Nellikatte.jpg"
-    },
-    {
-      "id": "exp-koteshwara",
-      "category": "Exterior",
-      "label": "Koteshwara — Elevation",
-      "url": "/assets/img/gallery/experier/Koteshwara1.jpg"
-    },
-    {
-      "id": "exp-trasi",
-      "category": "Exterior",
-      "label": "Trasi — Front",
-      "url": "/assets/img/gallery/experier/Trasi c.jpeg"
-    },
-    {
-      "id": "exp-byndoor",
-      "category": "Exterior",
-      "label": "Byndoor — Front View",
-      "url": "/assets/img/gallery/experier/Byndoor.jpg"
-    },
-    {
-      "id": "exp-gujjadi",
-      "category": "Exterior",
-      "label": "Gujjadi — Front",
-      "url": "/assets/img/gallery/experier/gujjadi c.jpg"
-    },
-    {
-      "id": "exp-kandloor",
-      "category": "Exterior",
-      "label": "Kandloor — Elevation",
-      "url": "/assets/img/gallery/experier/Kandloor c.jpg"
-    },
-    {
-      "id": "exp-koni",
-      "category": "Exterior",
-      "label": "Koni — Front View",
-      "url": "/assets/img/gallery/experier/koni 2.jpg"
-    },
-    {
-      "id": "exp-hunsemakki",
-      "category": "Exterior",
-      "label": "Hunsemakki — Exterior",
-      "url": "/assets/img/gallery/experier/HUNSEMAKKI .jpg"
-    },
-    {
-      "id": "exp-bird-eye",
-      "category": "Exterior",
-      "label": "Bird Eye View",
-      "url": "/assets/img/gallery/experier/BIRD EYE VIEW.jpg"
-    },
-    {
-      "id": "exp-resort-1",
-      "category": "3D Designs",
-      "label": "Resort — 3D Elevation v1",
-      "url": "/assets/img/gallery/experier/Resort_3D_v_01.jpg"
-    },
-    {
-      "id": "exp-resort-2",
-      "category": "3D Designs",
-      "label": "Resort — 3D Elevation v2",
-      "url": "/assets/img/gallery/experier/Resort_3D_v_02.jpg"
-    },
-    {
-      "id": "exp-navdrkeri-3d",
-      "category": "3D Designs",
-      "label": "Navdrkeri — 3D Design",
-      "url": "/assets/img/gallery/experier/Navdrkeri kundapur Sathis_3D.jpg"
-    },
-    {
-      "id": "exp-navdrkeri-comp",
-      "category": "3D Designs",
-      "label": "Navudrkeri — Completed",
-      "url": "/assets/img/gallery/experier/Navudrkeri kundapura comp.jpg"
-    },
-    {
-      "id": "exp-shankar",
-      "category": "3D Designs",
-      "label": "Shankarnarayana — 3D Design",
-      "url": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg"
-    },
+  {
+    "id": "exp-aishwarya",
+    "category": "Exterior",
+    "label": "Aishwarya — Elevation",
+    "url": "/assets/img/gallery/experier/Aishwarya .jpg"
+  },
+  {
+    "id": "exp-ampar",
+    "category": "Exterior",
+    "label": "Ampar — Front View",
+    "url": "/assets/img/gallery/experier/Ampar.jpeg"
+  },
+  {
+    "id": "exp-beejadi-wip",
+    "category": "Exterior",
+    "label": "Beejadi — WIP",
+    "url": "/assets/img/gallery/experier/Beejadi wip.jpeg"
+  },
+  {
+    "id": "exp-nellikatte",
+    "category": "Exterior",
+    "label": "Nellikatte — Elevation",
+    "url": "/assets/img/gallery/experier/Nellikatte.jpg"
+  },
+  {
+    "id": "exp-sastana",
+    "category": "Exterior",
+    "label": "Sastana — Front View",
+    "url": "/assets/img/gallery/experier/Sastana.jpg"
+  },
+  {
+    "id": "exp-sastana-2",
+    "category": "Exterior",
+    "label": "Sastana — View 2",
+    "url": "/assets/img/gallery/experier/Sasthana 2.jpg"
+  },
+  {
+    "id": "exp-sasthana",
+    "category": "Exterior",
+    "label": "Sasthana — Elevation",
+    "url": "/assets/img/gallery/experier/Sasthana.jpg"
+  },
+  {
+    "id": "exp-trasi",
+    "category": "Exterior",
+    "label": "Trasi — Front",
+    "url": "/assets/img/gallery/experier/Trasi c.jpeg"
+  },
+  {
+    "id": "exp-uppinakudru",
+    "category": "Exterior",
+    "label": "Uppinakudru — Elevation",
+    "url": "/assets/img/gallery/experier/uppinakudru.jpg"
+  },
+  {
+    "id": "exp-gujjadi",
+    "category": "Exterior",
+    "label": "Gujjadi — Front",
+    "url": "/assets/img/gallery/experier/gujjadi c.jpg"
+  },
+  {
+    "id": "exp-hunsemakki",
+    "category": "Exterior",
+    "label": "Hunsemakki — Elevation",
+    "url": "/assets/img/gallery/experier/HUNSEMAKKI .jpg"
+  },
+  {
+    "id": "exp-kandloor",
+    "category": "Exterior",
+    "label": "Kandloor — Elevation",
+    "url": "/assets/img/gallery/experier/Kandloor c.jpg"
+  },
+  {
+    "id": "exp-kodi",
+    "category": "Exterior",
+    "label": "Kodi — Front View",
+    "url": "/assets/img/gallery/experier/Kodi.jpg"
+  },
+  {
+    "id": "exp-koni",
+    "category": "Exterior",
+    "label": "Koni — Front View",
+    "url": "/assets/img/gallery/experier/koni 2.jpg"
+  },
+  {
+    "id": "exp-koteshwara",
+    "category": "Exterior",
+    "label": "Koteshwara — Elevation",
+    "url": "/assets/img/gallery/experier/Koteshwara1.jpg"
+  },
+  {
+    "id": "exp-kunapura-kodi",
+    "category": "Exterior",
+    "label": "Kunapura, Kodi — Front",
+    "url": "/assets/img/gallery/experier/kunapura,kodi.jpg"
+  },
+  {
+    "id": "exp-kundapura",
+    "category": "Exterior",
+    "label": "Kundapura — Elevation",
+    "url": "/assets/img/gallery/experier/kundapura..jpg"
+  },
+  {
+    "id": "exp-navudrkeri-comp",
+    "category": "Exterior",
+    "label": "Navudrkeri — Completed",
+    "url": "/assets/img/gallery/experier/Navudrkeri kundapura comp.jpg"
+  },
+  {
+    "id": "exp-rammandir",
+    "category": "Exterior",
+    "label": "Rammandir — View",
+    "url": "/assets/img/gallery/experier/rammandir.jpg"
+  },
+  {
+    "id": "exp-saligrama",
+    "category": "Exterior",
+    "label": "Saligrama — Completed",
+    "url": "/assets/img/gallery/experier/saligrama c.jpg"
+  },
+  {
+    "id": "exp-baby-kundapura",
+    "category": "Exterior",
+    "label": "Baby Kundapura — Elevation",
+    "url": "/assets/img/gallery/experier/baby kundapura.jpg"
+  },
+  {
+    "id": "exp-balikere",
+    "category": "Exterior",
+    "label": "Balikere — Elevation",
+    "url": "/assets/img/gallery/experier/balikere.jpg"
+  },
+  {
+    "id": "exp-beloor",
+    "category": "Exterior",
+    "label": "Beloor — Front View",
+    "url": "/assets/img/gallery/experier/Beloor.jpg"
+  },
+  {
+    "id": "exp-beloor-2",
+    "category": "Exterior",
+    "label": "BELOOR — Side View",
+    "url": "/assets/img/gallery/experier/BELOOR .jpg"
+  },
+  {
+    "id": "exp-bird-eye",
+    "category": "Exterior",
+    "label": "Bird Eye View",
+    "url": "/assets/img/gallery/experier/BIRD EYE VIEW.jpg"
+  },
+  {
+    "id": "exp-byndoor",
+    "category": "Exterior",
+    "label": "Byndoor — Front View",
+    "url": "/assets/img/gallery/experier/Byndoor.jpg"
+  },
+  {
+    "id": "exp-gangolli",
+    "category": "Exterior",
+    "label": "Gangolli — Elevation",
+    "url": "/assets/img/gallery/experier/GANGOLLI.jpg"
+  },
+  {
+    "id": "exp-hebri",
+    "category": "Exterior",
+    "label": "Hebri — Elevation",
+    "url": "/assets/img/gallery/experier/Hebri.jpg"
+  },
+  {
+    "id": "exp-hemmadi",
+    "category": "Exterior",
+    "label": "Hemmadi — Elevation",
+    "url": "/assets/img/gallery/experier/Hemmadi.jpg"
+  },
+  {
+    "id": "exp-img-1302",
+    "category": "Exterior",
+    "label": "Project — Exterior",
+    "url": "/assets/img/gallery/experier/IMG_1302.jpg"
+  },
+  {
+    "id": "exp-kalavara",
+    "category": "Exterior",
+    "label": "Kalavara — Elevation",
+    "url": "/assets/img/gallery/experier/KALAVARA.jpg"
+  },
+  {
+    "id": "exp-kodladi",
+    "category": "Exterior",
+    "label": "Kodladi — Elevation",
+    "url": "/assets/img/gallery/experier/KODLADI .jpg"
+  },
+  {
+    "id": "exp-korodi",
+    "category": "Exterior",
+    "label": "Korodi — Elevation",
+    "url": "/assets/img/gallery/experier/Korodi.jpeg"
+  },
+  {
+    "id": "exp-kunapura",
+    "category": "Exterior",
+    "label": "Kunapura — Elevation",
+    "url": "/assets/img/gallery/experier/kunapura .jpg"
+  },
+  {
+    "id": "exp-mandya",
+    "category": "Exterior",
+    "label": "Mandya — Elevation",
+    "url": "/assets/img/gallery/experier/mandya.jpg"
+  },
+  {
+    "id": "exp-mudbage",
+    "category": "Exterior",
+    "label": "Mudbage — Elevation",
+    "url": "/assets/img/gallery/experier/MUDBAGE .jpg"
+  },
+  {
+    "id": "exp-mudgopadi",
+    "category": "Exterior",
+    "label": "Mudgopadi — Elevation",
+    "url": "/assets/img/gallery/experier/MUDGOPADI.jpg"
+  },
+  {
+    "id": "exp-nada-guddeyangadi",
+    "category": "Exterior",
+    "label": "Nada Guddeyangadi — Elevation",
+    "url": "/assets/img/gallery/experier/NADA GUDDEYANGADI .jpg"
+  },
+  {
+    "id": "exp-nandibettu",
+    "category": "Exterior",
+    "label": "Nandibettu — Elevation",
+    "url": "/assets/img/gallery/experier/NANDIBETTU .jpg"
+  },
+  {
+    "id": "exp-navdrkeri-3d",
+    "category": "3D Designs",
+    "label": "Navdrkeri — 3D Design",
+    "url": "/assets/img/gallery/experier/Navdrkeri kundapur Sathis_3D.jpg"
+  },
+  {
+    "id": "exp-resort-1",
+    "category": "3D Designs",
+    "label": "Resort — 3D Elevation v1",
+    "url": "/assets/img/gallery/experier/Resort_3D_v_01.jpg"
+  },
+  {
+    "id": "exp-resort-2",
+    "category": "3D Designs",
+    "label": "Resort — 3D Elevation v2",
+    "url": "/assets/img/gallery/experier/Resort_3D_v_02.jpg"
+  },
+  {
+    "id": "exp-shankar",
+    "category": "3D Designs",
+    "label": "Shankarnarayana — 3D Design",
+    "url": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg"
+  },
+  {
+    "id": "exp-restaurant",
+    "category": "Exterior",
+    "label": "Restaurant — Elevation",
+    "url": "/assets/img/gallery/experier/Restaurant.jpg"
+  },
+  {
+    "id": "exp-tallur",
+    "category": "Exterior",
+    "label": "Tallur — Elevation",
+    "url": "/assets/img/gallery/experier/Tallur.jpg"
+  },
+  {
+    "id": "exp-udupi",
+    "category": "Exterior",
+    "label": "Udupi — Elevation",
+    "url": "/assets/img/gallery/experier/UDUPI.jpg"
+  },
+  {
+    "id": "exp-hash",
+    "category": "Exterior",
+    "label": "Project — Exterior Detail",
+    "url": "/assets/img/gallery/experier/45061f96138283.5ea7be8228939.jpg"
+  },
+  {
+    "id": "exp-vijay-kandloor",
+    "category": "Exterior",
+    "label": "Vijay Kandloor — Elevation",
+    "url": "/assets/img/gallery/experier/Vijay_Kandloor.jpg"
+  },
+  {
+    "id": "exp-vijay-kandloor-2",
+    "category": "Exterior",
+    "label": "Vijay Kandloor — View 2",
+    "url": "/assets/img/gallery/experier/vijay kandloor 2.jpg"
+  },
+  {
+    "id": "exp-vasanth-aloor",
+    "category": "Exterior",
+    "label": "Vasanth Aloor — WIP",
+    "url": "/assets/img/gallery/experier/vasanth @aloor wip.jpg"
+  },
+  {
+    "id": "exp-beejady-wip",
+    "category": "Exterior",
+    "label": "Beejady — WIP",
+    "url": "/assets/img/gallery/experier/Beejady wip.jpeg"
+  },
+  {
+    "id": "exp-suresh-bank",
+    "category": "Exterior",
+    "label": "Suresh Bank — Elevation",
+    "url": "/assets/img/gallery/experier/suresh bank .jpg"
+  },
+  {
+    "id": "exp-bramhavara",
+    "category": "Exterior",
+    "label": "Bramhavara — Elevation",
+    "url": "/assets/img/gallery/experier/Bramhavara pavan .jpg"
+  },
+  {
+    "id": "exp-sangeetha-hunsemakki",
+    "category": "Exterior",
+    "label": "Sangeetha Hunsemakki — Elevation",
+    "url": "/assets/img/gallery/experier/Sangeetha@hunsemakki.jpg"
+  },
   {
     "id": "int-aloor-living",
     "category": "Interiors",
