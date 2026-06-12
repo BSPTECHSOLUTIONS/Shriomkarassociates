@@ -250,21 +250,21 @@ export default function ProjectsPage() {
       {/* PROJECT DETAIL MODAL */}
       <AnimatePresence>
         {selectedProject && (
-          <div className="fixed inset-0 z-[100] flex items-center justify-center p-0 md:p-6 bg-secondary/90 backdrop-blur-sm overflow-y-auto">
+          <div className="fixed inset-0 z-[100] flex items-start justify-center bg-secondary/90 backdrop-blur-sm overflow-y-auto">
             <motion.div
               initial={{ opacity: 0, y: 50 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: 50 }}
-              className="bg-white w-full max-w-5xl min-h-screen md:min-h-0 md:rounded-2xl shadow-2xl relative flex flex-col md:max-h-[90vh] overflow-hidden"
+              className="bg-white w-full max-w-5xl min-h-screen md:min-h-0 md:rounded-2xl md:my-6 shadow-2xl relative flex flex-col"
             >
               <button
                 onClick={() => setSelectedProject(null)}
-                className="absolute top-4 right-4 z-50 w-10 h-10 rounded-full bg-black/50 text-white flex items-center justify-center hover:bg-primary transition-colors"
+                className="fixed top-4 right-4 z-50 w-10 h-10 rounded-full bg-black/50 text-white flex items-center justify-center hover:bg-primary transition-colors"
               >
                 <X size={24} />
               </button>
 
-              <div className="flex-grow overflow-y-auto">
+              <div className="flex-grow">
                 <div className="h-[300px] md:h-[400px] w-full relative">
                   <img src={selectedProject.coverImage} alt={selectedProject.name} className="w-full h-full object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-t from-secondary/80 to-transparent" />
@@ -369,7 +369,7 @@ export default function ProjectsPage() {
                         <p className="text-sm text-muted-foreground mb-6">Contact us to discuss your requirements and get a free consultation.</p>
                         <div className="flex flex-col gap-3">
                           <Button asChild className="w-full bg-[#25D366] hover:bg-[#20b858] text-white font-bold h-12">
-                            <a
+                            
                               href={`https://wa.me/917204767373?text=Hi%20Sri%20Omkar%20Associates%2C%20I%20am%20interested%20in%20the%20${encodeURIComponent(selectedProject.name)}%20project.`}
                               target="_blank"
                               rel="noopener noreferrer"
