@@ -15,6 +15,23 @@
     ],
     "videos": []
   },
+    {
+    "id": "Salvadi",
+    "name": "Salvadi",
+    "status": "completed",
+    "category": "residential",
+    "location": "Salvadi, Karnataka",
+    "description": "A beautifully completed residential home with modern design and premium finishes throughout. Spacious layout with attention to natural light.",
+    "coverImage": "/assets/img/projects/Project 1/image3.png",
+    "featured": false,
+    "view360": null,
+    "images": [
+      { "label": "Front View", "url": "/assets/img/projects/Project 1/image1.png" },
+      { "label": "Front View", "url": "/assets/img/projects/Project 1/image2.png" },
+      { "label": "Front View", "url": "/assets/img/projects/Project 1/image3.png" }
+    ],
+    "videos": []
+  },
   {
     "id": "nellikatte",
     "name": "Nellikatte",
