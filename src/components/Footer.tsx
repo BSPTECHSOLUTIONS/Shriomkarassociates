@@ -21,18 +21,18 @@ export function Footer() {
             </p>
             
             <div className="flex gap-3">
-              <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
+              {/* <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
                 <FaFacebook size={18} />
-              </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
+              </a> */}
+              <a href="https://www.instagram.com/sriomkarassociates/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
                 <FaInstagram size={18} />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
+              {/* <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
                 <FaLinkedin size={18} />
               </a>
               <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
                 <FaYoutube size={18} />
-              </a>
+              </a> */}
             </div>
           </div>
           
