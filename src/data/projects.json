@@ -392,102 +392,168 @@
       "label": "Shankarnarayana — 3D Design",
       "url": "/assets/img/gallery/experier/shankarnarayana new  - Copy.jpg"
     },
-    {
-      "id": "int-aloor-living",
-      "category": "Interiors",
-      "label": "Aloor — Living Area",
-      "url": "/assets/img/gallery/interior/INT Aloor.jpg"
-    },
-    {
-      "id": "int-aloor-2",
-      "category": "Interiors",
-      "label": "Aloor — Bedroom",
-      "url": "/assets/img/gallery/interior/INT Aloor 2.jpg"
-    },
-    {
-      "id": "int-aloor-3",
-      "category": "Interiors",
-      "label": "Aloor — Dining Area",
-      "url": "/assets/img/gallery/interior/INT Aloor3.jpg"
-    },
-    {
-      "id": "int-aloor-4",
-      "category": "Interiors",
-      "label": "Aloor — Hall",
-      "url": "/assets/img/gallery/interior/INT Aloor 4.jpg"
-    },
-    {
-      "id": "int-aloor-6",
-      "category": "Interiors",
-      "label": "Aloor — Interior 5",
-      "url": "/assets/img/gallery/interior/INT Aloor6.jpg"
-    },
-    {
-      "id": "int-aloor-7",
-      "category": "Interiors",
-      "label": "Aloor — Interior 6",
-      "url": "/assets/img/gallery/interior/INT Aloor 7.jpg"
-    },
-    {
-      "id": "int-beejadi-1",
-      "category": "Interiors",
-      "label": "Beejadi — Living",
-      "url": "/assets/img/gallery/interior/Beejadi .jpg"
-    },
-    {
-      "id": "int-beejadi-pooja",
-      "category": "Interiors",
-      "label": "Beejadi — Pooja Room",
-      "url": "/assets/img/gallery/interior/Beejadi Pooja room.jpg"
-    },
-    {
-      "id": "int-beejady-2",
-      "category": "Interiors",
-      "label": "Beejady — View 2",
-      "url": "/assets/img/gallery/interior/Beejady 2.jpg"
-    },
-    {
-      "id": "int-beejady-kitchen",
-      "category": "Interiors",
-      "label": "Beejady — Kitchen",
-      "url": "/assets/img/gallery/interior/Beejady kitchen .jpg"
-    },
-    {
-      "id": "int-beejady",
-      "category": "Interiors",
-      "label": "Beejady — Interior",
-      "url": "/assets/img/gallery/interior/Beejady.jpg"
-    },
-    {
-      "id": "int-koravadi",
-      "category": "Interiors",
-      "label": "Koravadi — Interior",
-      "url": "/assets/img/gallery/interior/Koravadi .jpg"
-    },
-    {
-      "id": "int-dr-karshap",
-      "category": "Interiors",
-      "label": "Dr. Karshap — Interior",
-      "url": "/assets/img/gallery/interior/Dr Karshap.jpg"
-    },
-    {
-      "id": "int-wa-0008",
-      "category": "Interiors",
-      "label": "Interior — Hall",
-      "url": "/assets/img/gallery/interior/IMG-20241010-WA0008.jpg"
-    },
-    {
-      "id": "int-wa-0009",
-      "category": "Interiors",
-      "label": "Interior — Room",
-      "url": "/assets/img/gallery/interior/IMG-20241010-WA0009.jpg"
-    },
-    {
-      "id": "int-wa-0010",
-      "category": "Interiors",
-      "label": "Interior — Kitchen",
-      "url": "/assets/img/gallery/interior/IMG-20241010-WA0010.jpg"
-    }
+  {
+    "id": "int-aloor-living",
+    "category": "Interiors",
+    "label": "Aloor — Living Area",
+    "url": "/assets/img/gallery/interior/INT Aloor.jpg"
+  },
+  {
+    "id": "int-aloor-2",
+    "category": "Interiors",
+    "label": "Aloor — Bedroom",
+    "url": "/assets/img/gallery/interior/INT Aloor 2.jpg"
+  },
+  {
+    "id": "int-aloor-3",
+    "category": "Interiors",
+    "label": "Aloor — Dining Area",
+    "url": "/assets/img/gallery/interior/INT Aloor3.jpg"
+  },
+  {
+    "id": "int-aloor-4",
+    "category": "Interiors",
+    "label": "Aloor — Hall",
+    "url": "/assets/img/gallery/interior/INT Aloor 4.jpg"
+  },
+  {
+    "id": "int-aloor-6",
+    "category": "Interiors",
+    "label": "Aloor — Interior 5",
+    "url": "/assets/img/gallery/interior/INT Aloor6.jpg"
+  },
+  {
+    "id": "int-aloor-7",
+    "category": "Interiors",
+    "label": "Aloor — Interior 6",
+    "url": "/assets/img/gallery/interior/INT Aloor 7.jpg"
+  },
+  {
+    "id": "int-beejadi-1",
+    "category": "Interiors",
+    "label": "Beejadi — Living",
+    "url": "/assets/img/gallery/interior/Beejadi .jpg"
+  },
+  {
+    "id": "int-beejadi-pooja",
+    "category": "Interiors",
+    "label": "Beejadi — Pooja Room",
+    "url": "/assets/img/gallery/interior/Beejadi Pooja room.jpg"
+  },
+  {
+    "id": "int-beejady-2",
+    "category": "Interiors",
+    "label": "Beejady — View 2",
+    "url": "/assets/img/gallery/interior/Beejady 2.jpg"
+  },
+  {
+    "id": "int-beejady-kitchen",
+    "category": "Interiors",
+    "label": "Beejady — Kitchen",
+    "url": "/assets/img/gallery/interior/Beejady kitchen .jpg"
+  },
+  {
+    "id": "int-beejady",
+    "category": "Interiors",
+    "label": "Beejady — Interior",
+    "url": "/assets/img/gallery/interior/Beejady.jpg"
+  },
+  {
+    "id": "int-beejadytv",
+    "category": "Interiors",
+    "label": "Beejady — TV Unit",
+    "url": "/assets/img/gallery/interior/Beejadytv.jpg"
+  },
+  {
+    "id": "int-dr-karshap",
+    "category": "Interiors",
+    "label": "Dr. Karshap — Interior",
+    "url": "/assets/img/gallery/interior/Dr Karshap.jpg"
+  },
+  {
+    "id": "int-img-1",
+    "category": "Interiors",
+    "label": "Interior — View 1",
+    "url": "/assets/img/gallery/interior/img .jpg"
+  },
+  {
+    "id": "int-img-2",
+    "category": "Interiors",
+    "label": "Interior — View 2",
+    "url": "/assets/img/gallery/interior/img 2.jpg"
+  },
+  {
+    "id": "int-img-3",
+    "category": "Interiors",
+    "label": "Interior — View 3",
+    "url": "/assets/img/gallery/interior/img 3.jpg"
+  },
+  {
+    "id": "int-wa-0008",
+    "category": "Interiors",
+    "label": "Interior — Hall",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0008.jpg"
+  },
+  {
+    "id": "int-wa-0009",
+    "category": "Interiors",
+    "label": "Interior — Room",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0009.jpg"
+  },
+  {
+    "id": "int-wa-0010",
+    "category": "Interiors",
+    "label": "Interior — Kitchen",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0010.jpg"
+  },
+  {
+    "id": "int-wa-0012",
+    "category": "Interiors",
+    "label": "Interior — Space 1",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0012.jpg"
+  },
+  {
+    "id": "int-wa-0013",
+    "category": "Interiors",
+    "label": "Interior — Space 2",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0013.jpg"
+  },
+  {
+    "id": "int-wa-0014",
+    "category": "Interiors",
+    "label": "Interior — Space 3",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0014.jpg"
+  },
+  {
+    "id": "int-wa-0016",
+    "category": "Interiors",
+    "label": "Interior — Space 4",
+    "url": "/assets/img/gallery/interior/IMG-20241010-WA0016.jpg"
+  },
+  {
+    "id": "int-hash-1",
+    "category": "Interiors",
+    "label": "Interior — Detail 1",
+    "url": "/assets/img/gallery/interior/3df7a89544514ff1a0665f70c6494b1bfb479738.jpg"
+  },
+  {
+    "id": "int-hash-2",
+    "category": "Interiors",
+    "label": "Interior — Detail 2",
+    "url": "/assets/img/gallery/interior/5b266b8aaa8c277771db5c17f5f9f6234fb09bb7.jpg"
+  },
+  {
+    "id": "int-hash-3",
+    "category": "Interiors",
+    "label": "Interior — Detail 3",
+    "url": "/assets/img/gallery/interior/8fed1952789a8df4e6475d5a053d0b847eea95fb.jpg"
+  },
+  {
+    "id": "int-hash-4",
+    "category": "Interiors",
+    "label": "Interior — Detail 4",
+    "url": "/assets/img/gallery/interior/d8c4b6bf9905023af04bdf895ecfafd6c7e12e9b.jpg"
+  }
   ],
   "testimonials": [
     {
