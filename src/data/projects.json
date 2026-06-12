@@ -7,26 +7,25 @@
       "category": "residential",
       "location": "Aloor, Karnataka",
       "description": "A beautifully crafted residential home at Aloor with premium interiors and modern architecture. Features spacious living areas, elegant interior design, and quality construction throughout.",
-      "coverImage": "/assets/img/projects/aloor-home/Aloor 5.jpg",
+      "coverImage": "/assets/img/projects/aloor-home/1000122494.jpg",
       "featured": true,
       "view360": null,
       "images": [
-        { "label": "Front Elevation", "url": "/assets/img/projects/aloor-home/Aloor 5.jpg" },
-        { "label": "Exterior View", "url": "/assets/img/projects/aloor-home/Aloor 8.jpg" },
-        { "label": "Exterior", "url": "/assets/img/projects/aloor-home/1000122494.jpg" },
-        { "label": "Side View", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0001.jpg" },
-        { "label": "Approach", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0002.jpg" },
-        { "label": "Construction View", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0004.jpg" },
-        { "label": "Rear View", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0005.jpg" },
-        { "label": "Side Elevation", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0007.jpg" },
-        { "label": "Exterior Detail", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0014.jpg" },
-        { "label": "Overview", "url": "/assets/img/projects/aloor-home/IMG_20241010_162405.jpg" },
-        { "label": "Interior Living", "url": "/assets/img/projects/aloor-home/INT Aloor.jpg" },
-        { "label": "Interior Bedroom", "url": "/assets/img/projects/aloor-home/INT Aloor 2.jpg" },
-        { "label": "Interior Dining", "url": "/assets/img/projects/aloor-home/INT Aloor3.jpg" },
-        { "label": "Interior Hallway", "url": "/assets/img/projects/aloor-home/INT Aloor 4.jpg" },
-        { "label": "Interior View 5", "url": "/assets/img/projects/aloor-home/INT Aloor6.jpg" },
-        { "label": "Interior View 6", "url": "/assets/img/projects/aloor-home/INT Aloor 7.jpg" }
+        { "label": "Front Exterior", "url": "/assets/img/projects/aloor-home/1000122494.jpg" },
+        { "label": "Building Exterior", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0004.jpg" },
+        { "label": "Front Elevation", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0005.jpg" },
+        { "label": "Design Vs Real iamge", "url": "/assets/img/projects/aloor-home/IMG_20241010_162405.jpg" },
+        { "label": "Modern Room", "url": "/assets/img/projects/aloor-home/Aloor 5.jpg" },
+        { "label": "Modular Kitchen", "url": "/assets/img/projects/aloor-home/Aloor 8.jpg" },
+        { "label": "Designer Ceiling", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0001.jpg" },
+        { "label": "Ceiling Design", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0002.jpg" },
+        { "label": "Wardrobe Design", "url": "/assets/img/projects/aloor-home/IMG-20241010-WA0014.jpg" },
+        { "label": "Washroom", "url": "/assets/img/projects/aloor-home/INT Aloor.jpg" },
+        { "label": "Bedroom Wardrobe", "url": "/assets/img/projects/aloor-home/INT Aloor 2.jpg" },
+        { "label": "Window Seating", "url": "/assets/img/projects/aloor-home/INT Aloor3.jpg" },
+        { "label": "Family Lounge", "url": "/assets/img/projects/aloor-home/INT Aloor 4.jpg" },
+        { "label": "Staircase Area", "url": "/assets/img/projects/aloor-home/INT Aloor6.jpg" },
+        { "label": "Vanity Area", "url": "/assets/img/projects/aloor-home/INT Aloor 7.jpg" }
       ],
       "videos": [
         { "label": "House Tour 1", "url": "/assets/img/projects/aloor-home/Aloor Vid.mp4" },
@@ -44,34 +43,36 @@
       "category": "residential",
       "location": "Beloor, Karnataka",
       "description": "A stunning completed residential project at Beloor showcasing premium construction standards and elegant architecture. Crafted with quality materials and meticulous attention to detail.",
-      "coverImage": "/assets/img/projects/beloor-home/Beloor.jpg",
+      "coverImage": "/assets/img/projects/beloor-home/BELOOR .jpg",
       "featured": true,
       "view360": null,
       "images": [
-        { "label": "Front Elevation", "url": "/assets/img/projects/beloor-home/Beloor.jpg" },
-        { "label": "Side View", "url": "/assets/img/projects/beloor-home/Beloor (1).jpg" },
-        { "label": "Exterior", "url": "/assets/img/projects/beloor-home/BELOOR .jpg" }
+        { "label": "Exterior", "url": "/assets/img/projects/beloor-home/BELOOR .jpg" },
+        { "label": "Design Vs Real Image", "url": "/assets/img/projects/beloor-home/Beloor.jpg" }
       ],
       "videos": [
         { "label": "House Video Tour", "url": "/assets/img/projects/beloor-home/HOUSE VIDEO.mp4" }
       ]
     },
     {
-      "id": "saligrama",
-      "name": "Saligrama",
+      "id": "Kandloor",
+      "name": "Kandloor",
       "status": "completed",
-      "category": "residential",
+      "category": "Residential",
       "location": "Kundapura, Karnataka",
       "description": "A premium residential project crafted with quality materials, modern structural design, and attention to every detail. Features contemporary architecture with traditional Karnataka elements.",
-      "coverImage": "/assets/img/projects/saligrama.jpg",
+      "coverImage": "/assets/img/projects/Kandloor/Screenshot 2026-06-11 132242.png",
       "featured": true,
       "view360": null,
       "images": [
-        { "label": "Front Elevation", "url": "/assets/img/projects/saligrama.jpg" },
-        { "label": "Interior View", "url": "/assets/img/interior/interior-1.jpg" },
-        { "label": "Site Progress", "url": "/assets/img/interior/interior-2.jpg" }
+        { "label": "Front Elevation", "url": "/assets/img/projects/Kandloor/Screenshot 2026-06-11 132242.png" },
+        { "label": "Interior View", "url": "/assets/img/projects/Kandloor/image2.jpg" },
+        { "label": "Dining area", "url": "/assets/img/projects/Kandloor/image3.jpg" },
+        { "label": "Bed Room", "url": "/assets/img/projects/Kandloor/Image1.jpg" }
       ],
-      "videos": []
+      "videos": [
+        { "label": "House Video Tour", "url": "/assets/img/projects/Kandloor/Video.mp4" }
+      ]
     },
     {
       "id": "resort",
@@ -90,14 +91,33 @@
       "videos": []
     },
     {
-      "id": "ampar",
+      "id": "Kundapura",
+      "name": "Kundapura",
+      "status": "completed",
+      "category": "residential",
+      "location": "Kundapura, Karnataka",
+      "description": "A beautifully completed residential home with modern design and premium finishes throughout. Spacious layout with attention to natural light.",
+      "coverImage": "/assets/img/projects/Doctor/image1.png",
+      "featured": true,
+      "view360": null,
+      "images": [
+        { "label": "Front View", "url": "/assets/img/projects/Doctor/image1.png" },
+        { "label": "3D View", "url": "/assets/img/projects/Doctor/image2.png" }
+      ],
+      "videos": [
+        { "label": "House Video Tour", "url": "/assets/img/projects/Doctor/video2.mp4" },
+        { "label": "House Video Tour", "url": "/assets/img/projects/Doctor/video1.mp4" }
+      ]
+    },
+    {
+      "id": "Ampar",
       "name": "Ampar",
       "status": "completed",
       "category": "residential",
       "location": "Udupi, Karnataka",
       "description": "A beautifully completed residential home with modern design and premium finishes throughout. Spacious layout with attention to natural light.",
       "coverImage": "/assets/img/gallery/experier/Ampar.jpeg",
-      "featured": true,
+      "featured": false,
       "view360": null,
       "images": [
         { "label": "Front View", "url": "/assets/img/gallery/experier/Ampar.jpeg" },
@@ -199,17 +219,19 @@
       "videos": []
     },
     {
-      "id": "byndoor",
+      "id": "Byndoor",
       "name": "Byndoor",
       "status": "completed",
       "category": "residential",
       "location": "Karnataka",
       "description": "A premium residential project in Byndoor, completed with quality construction standards and modern architecture.",
       "coverImage": "/assets/img/gallery/experier/Byndoor.jpg",
-      "featured": false,
+      "featured": true,
       "view360": null,
       "images": [
-        { "label": "Front View", "url": "/assets/img/gallery/experier/Byndoor.jpg" }
+        { "label": "Front Left View", "url": "/assets/img/gallery/experier/Byndoor.jpg" },
+        { "label": "Front View", "url": "/assets/img/gallery/experier/WhatsApp Image 2026-06-04 at 14.48.35 (2).jpeg" },
+        { "label": "Interior Tour", "url": "/assets/img/gallery/experier/Screenshot 2026-06-11 141307.png" }
       ],
       "videos": []
     },
