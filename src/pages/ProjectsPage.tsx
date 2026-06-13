@@ -260,19 +260,8 @@ export default function ProjectsPage() {
                         <p className="text-sm text-muted-foreground mb-6">Contact us to discuss your requirements and get a free consultation.</p>
                         <div className="flex flex-col gap-3">
                           
-                            href={"https://wa.me/917204767373?text=Hi%20Sri%20Omkar%20Associates%2C%20I%20am%20interested%20in%20the%20" + encodeURIComponent(selectedProject.name) + "%20project."}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="w-full bg-[#25D366] hover:bg-[#20b858] text-white font-bold h-12 rounded-lg flex items-center justify-center transition-colors"
-                          >
-                            Enquire on WhatsApp
-                          </a>
-                          
-                            href="tel:+917204767373"
-                            className="w-full border border-primary text-secondary hover:bg-primary hover:text-secondary font-bold h-12 rounded-lg flex items-center justify-center transition-colors"
-                          >
-                            Call Now
-                          </a>
+                          <a href={"https://wa.me/917204767373?text=Hi%20Sri%20Omkar%20Associates%2C%20I%20am%20interested%20in%20the%20" + encodeURIComponent(selectedProject.name) + "%20project."} target="_blank" rel="noopener noreferrer" className="w-full bg-[#25D366] hover:bg-[#20b858] text-white font-bold h-12 rounded-lg flex items-center justify-center transition-colors">Enquire on WhatsApp</a>
+                          <a href="tel:+917204767373" className="w-full border border-primary text-secondary hover:bg-primary hover:text-secondary font-bold h-12 rounded-lg flex items-center justify-center transition-colors">Call Now</a>
                         </div>
                       </div>
                     </div>
